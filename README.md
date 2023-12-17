@@ -87,27 +87,5 @@ Access the application in your web browser at [http://127.0.0.1:8000/](http://12
 
 ---
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
----
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vivekdevkar123.github.io/Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekdevkar123/)
-[![twitter](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vivekdevkar123)
-
----
-
-## Authors
-
-- [@Vivek Devkar](https://www.github.com/vivekdevkar123)
-
----
-
-## Feedback
-
-If you have any feedback, please reach out to us at mrvivekdevkar123@gmail.com
-
----
